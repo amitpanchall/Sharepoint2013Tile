@@ -1,0 +1,492 @@
+
+.tile-one {
+    display: block;
+    height: 180px;
+    width: 300px;
+}
+.tile-one:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-one-small {
+    display: block;
+    height: 180px;
+    width: 180px;
+}
+.tile-one-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-one-text-area {
+    background: url("images/black-background.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 100%;
+    margin-top: 143px;
+    width: 100%;
+}
+.tile-one-text-area label {
+    color: #FFFFFF;
+    float: left;
+    font-size: 25px;
+    line-height: 17px;
+    margin: 8px;
+    text-align: left;
+}
+.tile-one-text-area p {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 0 8px;
+    text-align: left;
+}
+
+.tile-one-text-area lable p {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 0 8px;
+    text-align: left;
+}
+.tile-two {
+    display: block;
+    height: 180px;
+    width: 300px;
+}
+.tile-two:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-two-small {
+    display: block;
+    height: 180px;
+    width: 180px;
+}
+.tile-two-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-two-img {
+    float: left;
+    margin-bottom: 3px;
+    margin-top: -38px;
+    position: relative;
+}
+.tile-two-text-area {
+    background-color: #004B8B;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+.tile-two-text-area label {
+    color: #FFFFFF;
+    float: left;
+    font-size: 25px;
+    line-height: 17px;
+    margin: 8px;
+    text-align: left;
+}
+.tile-two-text-area p {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 0 8px;
+    text-align: left;
+}
+.tile-three {
+    display: block;
+    height: 180px;
+    width: 300px;
+}
+.tile-three:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-three-small {
+    display: block;
+    height: 180px;
+    width: 180px;
+}
+.tile-three-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-three-img {
+    float: left;
+    margin-bottom: 2px;
+    margin-top: -23px;
+    position: relative;
+}
+.tile-three-text-area {
+    background-color: #004B8B;
+    float: left;
+    height: 100%;
+    position: relative;
+}
+.tile-three-text-area p {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    text-align: left;
+}
+.tile-four {
+    display: block;
+    height: 180px;
+    position: relative;
+    width: 300px;
+}
+.tile-four:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-four-small {
+    display: block;
+    height: 180px;
+    position: relative;
+    width: 180px;
+}
+.tile-four-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-four-img {
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.icon {
+    display: block;
+    height: 23px;
+    position: absolute;
+    width: 23px;
+}
+.left-icon-black {
+    background: url("images/left-right-icon.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    bottom: 5px;
+    right: 31px;
+}
+.left-icon-white {
+    background: url("images/left-right-icon.png") no-repeat scroll 0 -23px rgba(0, 0, 0, 0);
+    bottom: 5px;
+    right: 31px;
+}
+.right-icon-black {
+    background: url("images/left-right-icon.png") no-repeat scroll -23px 0 rgba(0, 0, 0, 0);
+    bottom: 5px;
+    right: 5px;
+}
+.right-icon-white {
+    background: url("images/left-right-icon.png") no-repeat scroll -23px -23px rgba(0, 0, 0, 0);
+    bottom: 5px;
+    right: 5px;
+}
+.up-icon-black {
+    background: url("images/up-down-icon.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    bottom: 31px;
+    right: 5px;
+}
+.up-icon-white {
+    background: url("images/up-down-icon.png") no-repeat scroll -23px 0 rgba(0, 0, 0, 0);
+    bottom: 31px;
+    right: 5px;
+}
+.down-icon-black {
+    background: url("images/up-down-icon.png") no-repeat scroll 0 -23px rgba(0, 0, 0, 0);
+    bottom: 5px;
+    right: 5px;
+}
+.down-icon-white {
+    background: url("images/up-down-icon.png") no-repeat scroll -23px -23px rgba(0, 0, 0, 0);
+    bottom: 5px;
+    right: 5px;
+}
+.tile-five {
+    display: block;
+    height: 180px;
+    width: 300px;
+}
+.tile-five:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-five-small {
+    display: block;
+    height: 180px;
+    width: 180px;
+}
+.tile-five-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-five-text-area {
+    background-color: #004B8B;
+    height: 100%;
+    width: 100%;
+}
+.tile-five-text-area label {
+    color: #FFFFFF;
+    float: left;
+    font-size: 25px;
+    line-height: 17px;
+    margin: 8px;
+    text-align: left;
+}
+.tile-five-text-area p {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 0 8px;
+    text-align: left;
+}
+.tile-six {
+    display: block;
+    height: 180px;
+    position: relative;
+    width: 300px;
+}
+.tile-six:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-six-small {
+    display: block;
+    height: 180px;
+    position: relative;
+    width: 180px;
+}
+.tile-six-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-six-text-area {
+    background-color: #004B8B;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+.tile-six-text-area label {
+    color: #FFFFFF;
+    float: left;
+    font-size: 25px;
+    line-height: 17px;
+    margin: 8px;
+    text-align: left;
+}
+.tile-six-text-area p {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 0 8px;
+    text-align: left;
+}
+.top-border {
+    border-top: 1px solid #FFFFFF;
+}
+.top-shadow {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.tile-seven {
+    display: block;
+    height: 180px;
+    width: 300px;
+}
+.tile-seven:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-seven-small {
+    display: block;
+    height: 180px;
+    width: 180px;
+}
+.tile-seven-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-seven-text-area {
+    background: url("images/black-background.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 100%;
+    margin-top: -143px;
+    position: relative;
+    width: 100%;
+}
+.tile-seven-text-area label {
+    bottom: 10px;
+    color: #FFFFFF;
+    font-size: 25px;
+    left: 5px;
+    line-height: 17px;
+    position: absolute;
+    text-align: left;
+}
+.tile-seven-text-area a {
+    display: none;
+    float: left;
+    margin: 10px;
+    text-decoration: none;
+}
+.tile-eight {
+    display: block;
+    height: 180px;
+    width: 300px;
+}
+.tile-eight:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-eight-small {
+    display: block;
+    height: 180px;
+    width: 180px;
+}
+.tile-eight-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-eight-img {
+    float: left;
+    position: relative;
+}
+.tile-eight-text-area {
+    background-color: #004B8B;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 50%;
+}
+.tile-eight-text-area label {
+    color: #FFFFFF;
+    float: left;
+    font-size: 25px;
+    line-height: 17px;
+    margin: 8px;
+    text-align: left;
+}
+.tile-eight-text-area p {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 0 8px;
+    text-align: left;
+}
+.tile-nine {
+    background-color: #004B8B;
+    display: block;
+    height: 180px;
+    overflow: hidden;
+    position: relative;
+    width: 300px;
+}
+.tile-nine:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-nine > img {
+    height: 100%;
+    width: 100%;
+}
+.tile-nine-inner {
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+.tile-nine-inner p {
+    color: #FFFFFF;
+    font-size: 13px;
+    line-height: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.tile-nine-inner a {
+    background: url("images/icon-details.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    bottom: 30px;
+    height: 45px;
+    left: 50%;
+    margin-left: -22px;
+    position: absolute;
+    width: 45px;
+    z-index: 1;
+}
+.tile-nine-inner a:hover {
+    background: url("images/icon-details.png") no-repeat scroll 0 -45px rgba(0, 0, 0, 0);
+}
+.tile-nine-inner h2 {
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.tile-nine-small {
+    background-color: #004B8B;
+    display: block;
+    height: 180px;
+    overflow: hidden;
+    position: relative;
+    width: 180px;
+}
+.tile-nine-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-nine-small > img {
+    height: 100%;
+    width: 100%;
+}
+.tile-nine-inner-custom {
+    text-align: left;
+}
+.tile-nine-inner-custom h2 {
+    margin-left: 10px;
+}
+.tile-nine-inner-custom a {
+    bottom: 10px;
+    left: auto;
+    margin-left: 0;
+    right: 10px;
+}
+.tile-ten {
+    background-color: #004B8B;
+    color: #FFFFFF;
+    display: block;
+    height: 180px;
+    overflow: hidden;
+    text-align: left;
+    width: 300px;
+}
+.tile-ten .tile-ten-inner {
+    margin-top: 15px;
+}
+.tile-ten label {
+    font-size: 20px;
+    margin-left: 10px;
+}
+.tile-ten a {
+    color: #FFFFFF;
+    font-size: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+}
+.tile-ten a:hover {
+    text-decoration: underline;
+}
+.tile-ten p {
+    font-size: 13px;
+    line-height: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.tile-ten:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-ten-small {
+    background-color: #FF8F32;
+    color: #FFFFFF;
+    display: block;
+    height: 180px;
+    overflow: hidden;
+    text-align: center;
+    width: 180px;
+}
+.tile-ten-small:hover {
+    outline: 4px solid #DADADA;
+}
+.tile-ten-small .tile-ten-inner {
+    margin-top: 25px;
+}
+.tile-ten-small p {
+    font-size: 20px;
+    line-height: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
